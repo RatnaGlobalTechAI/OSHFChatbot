@@ -1,0 +1,9 @@
+
+# run this commands
+# ---------->
+# !pip install datasets
+# !pip install chainlit
+# !pip install farm-haystack[colab,inference,elasticsearch]
+
+# then execute one by one steps as commented in main.py
+# them bot.py and restapi.py
